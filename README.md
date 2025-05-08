@@ -20,7 +20,6 @@ Provisioned two S3 buckets:
 - **Server-side encryption** (`AES256`)
 - **Versioning enabled** for data recovery
 - **Block all public access**
-- **Tags and lifecycle rules** for future auditing and governance
 
 ---
 
